@@ -1,0 +1,1 @@
+# Trimmed-Mean-Program-in-Python
